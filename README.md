@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Soufiane  👩‍💻 </h1>
 
 <p align='center'>
-  I live in Rabat, Morocco
+  I live in Paris, France
 </p>
 
 <p align='center'>
